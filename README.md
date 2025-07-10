@@ -1,17 +1,3 @@
-# ---
-
-# layout: default
-
-# title: Gabriel Varisco
-
-# ---
-
-# 
-
-# \# Gabriel Varisco
-
-# 
-
 # Especialista em virtualização e automação de ambientes VMware.
 
 # 
