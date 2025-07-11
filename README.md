@@ -1,4 +1,4 @@
-# Especialista em virtualização e automação de ambientes VMware.
+li# Especialista em virtualização e automação de ambientes VMware.
 
 # 
 
@@ -64,9 +64,9 @@
 
 # 
 
-# \[GitHub](https://github.com/gabrielvarisco)  
+# \(https://github.com/gabrielvarisco
 
-# \[LinkedIn](https://linkedin.com/in/seu-perfil)  
+# \https://www.linkedin.com/in/gabriel-varisco-oliveira/
 
 # 
 
